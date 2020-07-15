@@ -1,4 +1,3 @@
-# Stage #4: Action
 class Coffee:
     def __init__(self, water, milk, coffee_beans, cost):
         self.water = water
